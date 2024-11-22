@@ -1,0 +1,151 @@
+2022-02-18 17:57:36,064-INFO-Start : =========================================================================
+2022-02-18 17:57:36,064-INFO-<soapenv:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:urn="urn:callbackservice">
+    <soapenv:Header/>
+    <soapenv:Body>
+        <urn:provisioncallback.getStatus soapenv:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+            <msisdn xsi:type="xsd:string">msisdn</msisdn>
+            <status xsi:type="xsd:string">status</status>
+        </urn:provisioncallback.getStatus>
+    </soapenv:Body>
+</soapenv:Envelope>
+
+2022-02-18 17:57:36,064-INFO-Response : =================================
+2022-02-18 17:57:36,065-INFO-<?xml version="1.0" encoding="ISO-8859-1"?><SOAP-ENV:Envelope SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"
+  xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body><SOAP-ENV:Fault><faultcode xsi:type="xsd:string">SOAP-ENV:Client</faultcode><faultactor xsi:type="xsd:string"></faultactor><faultstring xsi:type="xsd:string">Operation &apos;&apos; is not defined in the WSDL for this service</faultstring><detail xsi:type="xsd:string"></detail></SOAP-ENV:Fault></SOAP-ENV:Body></SOAP-ENV:Envelope>
+2022-02-18 17:57:36,065-INFO-End : =========================================================================
+2022-02-18 17:57:36,065-ERROR-list index out of range
+2022-02-18 18:00:07,477-INFO-Start : =========================================================================
+2022-02-18 18:00:07,478-INFO-<soapenv:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:urn="urn:callbackservice">
+    <soapenv:Header/>
+    <soapenv:Body>
+        <urn:provisioncallback.getStatus soapenv:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+            <msisdn xsi:type="xsd:string">msisdn</msisdn>
+            <status xsi:type="xsd:string">status</status>
+        </urn:provisioncallback.getStatus>
+    </soapenv:Body>
+</soapenv:Envelope>
+
+2022-02-18 18:00:07,478-INFO-Response : =================================
+2022-02-18 18:00:07,478-INFO-<?xml version="1.0" encoding="ISO-8859-1"?><SOAP-ENV:Envelope SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"
+  xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body><SOAP-ENV:Fault><faultcode xsi:type="xsd:string">SOAP-ENV:Client</faultcode><faultactor xsi:type="xsd:string"></faultactor><faultstring xsi:type="xsd:string">Operation &apos;&apos; is not defined in the WSDL for this service</faultstring><detail xsi:type="xsd:string"></detail></SOAP-ENV:Fault></SOAP-ENV:Body></SOAP-ENV:Envelope>
+2022-02-18 18:00:07,478-INFO-End : =========================================================================
+2022-02-18 18:00:07,478-ERROR-list index out of range
+2022-02-18 18:02:30,999-INFO-Start : =========================================================================
+2022-02-18 18:02:30,999-INFO-<soapenv:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:urn="urn:callbackservice">
+    <soapenv:Header/>
+    <soapenv:Body>
+        <urn:provisioncallback.getStatus soapenv:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+            <msisdn xsi:type="xsd:string">msisdn</msisdn>
+            <status xsi:type="xsd:string">status</status>
+        </urn:provisioncallback.getStatus>
+    </soapenv:Body>
+</soapenv:Envelope>
+
+2022-02-18 18:02:30,999-INFO-Response : =================================
+2022-02-18 18:02:30,999-INFO-<?xml version="1.0" encoding="ISO-8859-1"?><SOAP-ENV:Envelope SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"
+  xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body><SOAP-ENV:Fault><faultcode xsi:type="xsd:string">SOAP-ENV:Client</faultcode><faultactor xsi:type="xsd:string"></faultactor><faultstring xsi:type="xsd:string">Operation &apos;&apos; is not defined in the WSDL for this service</faultstring><detail xsi:type="xsd:string"></detail></SOAP-ENV:Fault></SOAP-ENV:Body></SOAP-ENV:Envelope>
+2022-02-18 18:02:30,999-INFO-End : =========================================================================
+2022-02-18 18:02:30,999-ERROR-list index out of range
+2022-02-18 18:03:29,422-INFO-Start : =========================================================================
+2022-02-18 18:03:29,422-INFO-<soapenv:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:urn="urn:callbackservice">
+    <soapenv:Header/>
+    <soapenv:Body>
+        <urn:provisioncallback.getStatus soapenv:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+            <msisdn xsi:type="xsd:string">0112396502</msisdn>
+            <status xsi:type="xsd:string">2</status>
+        </urn:provisioncallback.getStatus>
+    </soapenv:Body>
+</soapenv:Envelope>
+
+2022-02-18 18:03:29,422-INFO-Response : =================================
+2022-02-18 18:03:29,423-INFO-<?xml version="1.0" encoding="ISO-8859-1"?><SOAP-ENV:Envelope SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"
+  xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body><SOAP-ENV:Fault><faultcode xsi:type="xsd:string">SOAP-ENV:Client</faultcode><faultactor xsi:type="xsd:string"></faultactor><faultstring xsi:type="xsd:string">Operation &apos;&apos; is not defined in the WSDL for this service</faultstring><detail xsi:type="xsd:string"></detail></SOAP-ENV:Fault></SOAP-ENV:Body></SOAP-ENV:Envelope>
+2022-02-18 18:03:29,423-INFO-End : =========================================================================
+2022-02-18 18:03:29,423-ERROR-list index out of range
+2022-02-18 18:08:20,927-INFO-Start : =========================================================================
+2022-02-18 18:08:20,928-INFO-<soapenv:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:urn="urn:callbackservice">
+    <soapenv:Header/>
+    <soapenv:Body>
+        <urn:provisioncallback.getStatus soapenv:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+            <msisdn xsi:type="xsd:string">0112396502</msisdn>
+            <status xsi:type="xsd:string">2</status>
+        </urn:provisioncallback.getStatus>
+    </soapenv:Body>
+</soapenv:Envelope>
+
+2022-02-18 18:08:20,928-INFO-Response : =================================
+2022-02-18 18:08:20,928-INFO-<?xml version="1.0" encoding="ISO-8859-1"?><SOAP-ENV:Envelope SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/"><SOAP-ENV:Body><ns1:provisioncallback.getStatusResponse xmlns:ns1="urn:callbackservice"><return xsi:type="xsd:string">NOT REGISTERED FOR VAS CRBT</return></ns1:provisioncallback.getStatusResponse></SOAP-ENV:Body></SOAP-ENV:Envelope>
+2022-02-18 18:08:20,928-INFO-End : =========================================================================
+2022-02-18 18:08:20,928-ERROR-list index out of range
+2022-02-18 18:09:07,505-INFO-Start : =========================================================================
+2022-02-18 18:09:07,506-INFO-<soapenv:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:urn="urn:callbackservice">
+    <soapenv:Header/>
+    <soapenv:Body>
+        <urn:provisioncallback.getStatus soapenv:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+            <msisdn xsi:type="xsd:string">0112396502</msisdn>
+            <status xsi:type="xsd:string">2</status>
+        </urn:provisioncallback.getStatus>
+    </soapenv:Body>
+</soapenv:Envelope>
+
+2022-02-18 18:09:07,506-INFO-Response : =================================
+2022-02-18 18:09:07,506-INFO-<?xml version="1.0" encoding="ISO-8859-1"?><SOAP-ENV:Envelope SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/"><SOAP-ENV:Body><ns1:provisioncallback.getStatusResponse xmlns:ns1="urn:callbackservice"><return xsi:type="xsd:string">NOT REGISTERED FOR VAS CRBT</return></ns1:provisioncallback.getStatusResponse></SOAP-ENV:Body></SOAP-ENV:Envelope>
+2022-02-18 18:09:07,506-INFO-End : =========================================================================
+2022-02-18 18:10:13,817-INFO-Start : =========================================================================
+2022-02-18 18:10:13,817-INFO-<soapenv:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:urn="urn:callbackservice">
+    <soapenv:Header/>
+    <soapenv:Body>
+        <urn:provisioncallback.getStatus soapenv:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+            <msisdn xsi:type="xsd:string">0112396502</msisdn>
+            <status xsi:type="xsd:string">2</status>
+        </urn:provisioncallback.getStatus>
+    </soapenv:Body>
+</soapenv:Envelope>
+
+2022-02-18 18:10:13,817-INFO-Response : =================================
+2022-02-18 18:10:13,817-INFO-<?xml version="1.0" encoding="ISO-8859-1"?><SOAP-ENV:Envelope SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/"><SOAP-ENV:Body><ns1:provisioncallback.getStatusResponse xmlns:ns1="urn:callbackservice"><return xsi:type="xsd:string">NOT REGISTERED FOR VAS CRBT</return></ns1:provisioncallback.getStatusResponse></SOAP-ENV:Body></SOAP-ENV:Envelope>
+2022-02-18 18:10:13,818-INFO-End : =========================================================================
+2022-02-18 18:10:23,616-INFO-Start : =========================================================================
+2022-02-18 18:10:23,616-INFO-<soapenv:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:urn="urn:callbackservice">
+    <soapenv:Header/>
+    <soapenv:Body>
+        <urn:provisioncallback.getStatus soapenv:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+            <msisdn xsi:type="xsd:string">0112396502</msisdn>
+            <status xsi:type="xsd:string">2</status>
+        </urn:provisioncallback.getStatus>
+    </soapenv:Body>
+</soapenv:Envelope>
+
+2022-02-18 18:10:23,616-INFO-Response : =================================
+2022-02-18 18:10:23,616-INFO-<?xml version="1.0" encoding="ISO-8859-1"?><SOAP-ENV:Envelope SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/"><SOAP-ENV:Body><ns1:provisioncallback.getStatusResponse xmlns:ns1="urn:callbackservice"><return xsi:type="xsd:string">NOT REGISTERED FOR VAS CRBT</return></ns1:provisioncallback.getStatusResponse></SOAP-ENV:Body></SOAP-ENV:Envelope>
+2022-02-18 18:10:23,616-INFO-End : =========================================================================
+2022-02-18 18:51:14,741-INFO-Start : =========================================================================
+2022-02-18 18:51:14,741-INFO-<soapenv:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:urn="urn:callbackservice">
+    <soapenv:Header/>
+    <soapenv:Body>
+        <urn:provisioncallback.getStatus soapenv:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+            <msisdn xsi:type="xsd:string">0112396502</msisdn>
+            <status xsi:type="xsd:string">2</status>
+        </urn:provisioncallback.getStatus>
+    </soapenv:Body>
+</soapenv:Envelope>
+
+2022-02-18 18:51:14,741-INFO-Response : =================================
+2022-02-18 18:51:14,741-INFO-<?xml version="1.0" encoding="ISO-8859-1"?><SOAP-ENV:Envelope SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/"><SOAP-ENV:Body><ns1:provisioncallback.getStatusResponse xmlns:ns1="urn:callbackservice"><return xsi:type="xsd:string">NOT REGISTERED FOR VAS CRBT</return></ns1:provisioncallback.getStatusResponse></SOAP-ENV:Body></SOAP-ENV:Envelope>
+2022-02-18 18:51:14,741-INFO-End : =========================================================================
